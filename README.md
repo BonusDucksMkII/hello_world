@@ -6,7 +6,7 @@ This program outputs "Hello world!" to the terminal/console.
 
 This program is mostly for testing my compiler setup, which is working correctly on my machine.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Jn4SKbysbas)
 
 # Development Environment
 
@@ -17,5 +17,5 @@ This is written in C with the stdio library.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [cplusplus.com](https://cplusplus.com/reference/cstdio/printf/)
+* [cplusplus.com](https://cplusplus.com/reference/cstdio/)
