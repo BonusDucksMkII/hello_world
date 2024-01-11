@@ -16,6 +16,6 @@ This is written in C with the stdio library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+I used these sites for reference:
 * [cplusplus.com](https://cplusplus.com/reference/cstdio/printf/)
 * [cplusplus.com](https://cplusplus.com/reference/cstdio/)
